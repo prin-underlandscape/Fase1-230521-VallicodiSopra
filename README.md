@@ -1,4 +1,4 @@
-# Fase1-230521-VallicodiSopra (mappa non collegata)
+# Fase1-230521-VallicodiSopra ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230521-vallicodisopra_1067184?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
 descrizione del dataset mancante
 ## POI: Metato
 [<img src='/vignettes/bde34d1e-856e-47b3-89fb-d40a9faac2ab.jpg' width='250'/>](/vignettes/bde34d1e-856e-47b3-89fb-d40a9faac2ab.jpg) 
