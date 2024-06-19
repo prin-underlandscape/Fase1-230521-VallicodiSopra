@@ -1,5 +1,5 @@
 # Fase1-230521-VallicodiSopra ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230521-vallicodisopra_1067184?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
-descrizione del dataset mancante
+Sopralluogo per individuare la Buca di Castelvenere, partendo da Vallico di Sopra in direzione Cardoso
 ## POI: Metato
 [<img src='/vignettes/bde34d1e-856e-47b3-89fb-d40a9faac2ab.jpg' width='250'/>](/vignettes/bde34d1e-856e-47b3-89fb-d40a9faac2ab.jpg) 
 
@@ -8,7 +8,7 @@ descrizione del dataset mancante
 [<img src='/vignettes/MKGqPfTG.jpg' width='250'/>](/vignettes/MKGqPfTG.jpg) 
 
 **Bivio per continuazione del sentiero 111 verso San Luigi**
-## POI: Segnalazione
+## POI: Segnalatica
 [<img src='/vignettes/xdxWbX0k.jpg' width='250'/>](/vignettes/xdxWbX0k.jpg) 
 
 **Prosecuzione del sentiero 111 verso Cardoso**
