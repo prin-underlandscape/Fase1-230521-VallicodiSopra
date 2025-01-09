@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.02183" lon="10.458799">
+    <ele>500</ele>
+    <name>Metato</name>
+    <desc>Edificio per l'essiccazione delle castagne in stato di rudere localizzato lungo il sentiero 111</desc>
+  </wpt>
+  <wpt lat="44.018415" lon="10.44634">
+    <ele>500</ele>
+    <name>Bivio</name>
+    <desc>Bivio per continuazione del sentiero 111 verso San Luigi</desc>
+  </wpt>
+  <wpt lat="44.015487" lon="10.45463">
+    <ele>500</ele>
+    <name>Segnalatica</name>
+    <desc>Prosecuzione del sentiero 111 verso Cardoso</desc>
+  </wpt>
+  <wpt lat="44.016478" lon="10.448797">
+    <ele>500</ele>
+    <name>Chiesa di San Michele di Vallico</name>
+    <desc>Edificio ecclesiastico con fase bassomedievale in facciata e abside. Edifici post medievali addosati ai lati</desc>
+  </wpt>
+  <wpt lat="44.02593" lon="10.46429">
+    <ele>500</ele>
+    <name>Buca di Castelvenere</name>
+    <desc>Grotta con sorgente interna da cui scaturisce un torrente che forma una piccola cascata e varie vasche al suo interno</desc>
+  </wpt>
+  <trk>
+    <name>Vallico di Sopra-Buca di Castelvenere</name>
+    <desc>Il sentiero CAI 111 si snoda lungo il versante sud del Monte Penna, collega San Luigi con Vallico di Sopra e prosegue fino all'innesto del sentiero 136 per Cardoso. Partendo da Vallico si prosegue fuori paese sull'asfaltata in direzione sud-est fino ad una curva da cui parte una sterrata che giunge sotto la Buca di Castelvenere, raggiungibile tramite un breve e ripido percorso sul versante</desc>
+    <trkseg>
+      <trkpt lat="[10.447383, 44.017949, 704.427002]" lon="[10.447277, 44.018021, 700.743103]">
+        <ele>[10.447394, 44.01794, 704.699646]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
