@@ -17,7 +17,7 @@ Bivio per continuazione del sentiero 111 verso San Luigi
 [<img src=vignettes/MKGqPfTG.jpg width='250'/>](MKGqPfTG.jpg) 
 
 **Bivio per continuazione del sentiero 111 verso San Luigi**
-## POI: Segnalatica
+## POI: Segnaletica
 Prosecuzione del sentiero 111 verso Cardoso
 
 [<img src=vignettes/xdxWbX0k.jpg width='250'/>](xdxWbX0k.jpg) 
